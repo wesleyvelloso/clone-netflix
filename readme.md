@@ -10,4 +10,8 @@
 ## Smartphone 📱
 <img src="/Netflix-Clone-mobile.gif"  width="200" height="430"/>
 
+## Para executar localmente:
+ - Clone este repositório.
+ - Abra o arquivo index.html no navegador.
+
 
