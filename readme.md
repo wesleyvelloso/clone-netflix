@@ -1,5 +1,5 @@
 # Recriação de interface responsiva - Netflix
-## [Acesse no heroku](https://netflix-clone-wes.herokuapp.com/)
+## [Clique aqui para acessar no heroku](https://netflix-clone-wes.herokuapp.com/)
 
 ## Desktop 🖥️
 <img src="netflix-clone.gif" width="700" height="411"/>
